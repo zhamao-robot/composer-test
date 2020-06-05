@@ -8,5 +8,8 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.2"
-    }
+    },
+    "bin": [
+        "src/ZM/test.php"
+    ]
 }
